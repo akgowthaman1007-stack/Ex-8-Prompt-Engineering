@@ -148,8 +148,8 @@ Detailed prompts maintain better scene consistency.
 Motion and transitions become smoother with clear instructions.
 Simple prompts are useful for quick generation but provide less control.
 
-Conclusion
-
+Conclusion:
 AI video generation performance depends greatly on the quality of prompts. Simple prompts create basic videos, while detailed prompts provide better control over video style, motion, lighting, transitions, and creativity. Effective prompt engineering is important for creating professional AI-generated videos.
+
 Result:
 The experiment successfully generated different types of AI videos using simple and detailed prompts. Detailed prompts produced higher quality, realistic, and more creative video outputs.
