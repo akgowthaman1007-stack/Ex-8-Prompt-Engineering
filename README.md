@@ -17,107 +17,140 @@ Suggested AI Video Generation Tools:
 RunwayML, Pika Labs, Synthesia, Kaiber AI, Canva AI Video, Luma AI.
 
 Output:
-The document must contain the following:
+Objective:
 
-Prompts Used 
+To understand the importance of prompt engineering in AI video generation by comparing simple prompts and detailed prompts using AI video generation platforms.
 
-AI-generated Videos link 
+AI Video Generation Tools Used:
+RunwayML
+Pika Labs
+Luma AI
+Canva AI Video
+Kaiber AI
+Synthesia
+Algorithm:
 
-Screenshots of generated scenes 
+Step 1: Select an AI video generation tool.
+Step 2: Create a simple prompt describing the required video.
+Step 3: Generate video output using the simple prompt.
+Step 4: Create a detailed prompt by adding scene details, lighting, camera movement, and animation style.
+Step 5: Generate the improved video.
+Step 6: Compare both generated videos.
+Step 7: Analyze quality, consistency, motion, and creativity.
 
-Comparison between simple and detailed prompts 
+Scenario 1: Nature Wildlife Video
+Simple Prompt
 
-Observations and analysis
-Prompt 1 – Simple Prompt
-Input:
-A cat walking through a garden.
-Expected Video Characteristics
-• Basic scene generation
-• Limited environmental details
-• Generic camera movement
-• Moderate scene consistency
-Prompt 2 – Detailed Prompt
-Input:
-A fluffy orange cat walks slowly through a colorful flower garden during sunrise. Butterflies fly
-around blooming flowers while golden sunlight passes through the trees. The camera follows the
-cat smoothly from a low-angle cinematic perspective. Realistic lighting, detailed textures,
-shallow depth of field, smooth motion, ultra-realistic style.
-Expected Video Characteristics
-• Realistic visuals
-• Better scene consistency
-• Cinematic camera movement
-• Enhanced lighting and textures
-Prompt 3 – Style-Based Prompt
-Input:
-An anime-style cat walks through a magical garden filled with glowing flowers and floating
-lanterns. Vibrant colors, fantasy atmosphere, Studio Ghibli-inspired animation, smooth camera
-movements, dreamy lighting.
-Expected Video Characteristics
-• Artistic appearance
-• Fantasy environment
-• Stylized animation
-• Creative visual effects
-Prompt 4 – Motion-Focused Prompt
-Input:
-A cheetah running at high speed across a grassland. Dynamic camera tracking, motion blur, dust
-effects, dramatic sunlight, smooth transitions, cinematic action sequence.
-Expected Video Characteristics
-• Fast motion
-• Dynamic camera angles
-• Action-oriented scenes
-• Smooth transitions
-Simulated Output Analysis
-Output for Prompt 1
-The generated video would likely show a cat walking through a garden with minimal
-environmental details. The scene may appear generic, and camera movement would be simple.
-Output for Prompt 2
-The generated video would contain realistic lighting, visible flower details, smoother camera
-tracking, and improved scene continuity. The cat would appear more natural and visually
-appealing.
-Output for Prompt 3
-The video would display vibrant anime visuals with fantasy elements such as glowing flowers
-and magical lighting effects. Creativity would be significantly higher.
-Output for Prompt 4
-The generated video would emphasize movement, speed, and action. Motion blur and dynamic
-camera tracking would make the video appear more cinematic.
-Comparison of Prompting Techniques
-Parameter Simple Prompt Detailed
-Prompt
-Style-Based
-Prompt
-Motion-Focused
-Prompt
-Visual Quality Medium High High High
-Scene
-Consistency
-Low High Medium High
-Creativity Low High Very High High
-Motion Quality Basic Good Good Excellent
-Camera Control Limited Good Good Excellent
-Environmental
-Details
-Low High High Medium
-Realism Medium Very High Low High
-User Control Low High High High
-Observations
-1. Simple prompts generate videos quickly but provide limited control over the final output.
-2. Detailed prompts produce more realistic and coherent videos.
-3. Including lighting, camera angles, and environmental details improves video quality.
-4. Style-based prompts allow users to generate videos in specific artistic styles.
-5. Motion-focused prompts improve animation smoothness and action sequences.
-6. The amount of detail provided in the prompt directly influences the quality and
-consistency of the generated video.
-7. Prompt engineering plays a crucial role in controlling AI-generated video outputs.
-Analysis
-The experiment demonstrates that prompt structure significantly affects AI video generation
-results. Simple prompts are suitable for quick content generation but often lack detail and
-consistency. Detailed prompts provide greater control over visual appearance, motion, lighting,
-and storytelling. Style-based prompts help achieve specific artistic effects, while motion-focused
-prompts improve animation quality and camera movement. Therefore, well-crafted prompts are
-essential for obtaining high-quality AI-generated videos.
+Prompt 1:
 
+"Generate a video of a tiger walking in a forest."
+
+Simple Prompt Output
+
+The AI-generated video contains:
+
+A tiger walking scene
+Basic forest background
+Limited environmental details
+Normal animation movement
+Simple camera angle
+Detailed Prompt
+
+Prompt 2:
+
+"Create a realistic 4K cinematic wildlife video showing a tiger slowly walking through a dense green forest during sunrise. Add sunlight rays through trees, moving leaves, realistic fur details, natural walking motion, birds flying in the background, smooth camera tracking, and documentary-style visuals."
+
+Detailed Prompt Output
+
+The generated video contains:
+
+Realistic tiger movement
+Detailed forest environment
+Natural lighting effects
+Smooth camera motion
+Professional wildlife documentary style
+<br>
+Scenario 2: Futuristic City Video
+Simple Prompt
+
+Prompt 1:
+
+"Create a futuristic city video."
+
+Simple Prompt Output
+
+Generated video contains:
+
+Modern city buildings
+Basic futuristic elements
+Few animations
+Simple transitions
+Detailed Prompt
+
+Prompt 2:
+
+"Generate a futuristic smart city in the year 2050. Show tall skyscrapers, flying cars moving between buildings, robots walking on streets, holographic advertisements, neon lighting, advanced technology environment, smooth drone camera movement, cinematic transitions, and science-fiction movie style."
+
+Detailed Prompt Output
+
+Generated video contains:
+
+Advanced futuristic city design
+Flying vehicles
+Realistic motion effects
+Smooth scene transitions
+Creative science-fiction appearance
+Scenario 3: Product Advertisement Video
+Simple Prompt
+
+Prompt 1:
+
+"Make a smartwatch advertisement video."
+
+Simple Prompt Output
+
+Output contains:
+
+Basic smartwatch model
+Simple product rotation
+Plain background
+Limited effects
+Detailed Prompt
+
+Prompt 2:
+
+"Create a premium smartwatch commercial video. Show a smartwatch rotating in a dark studio environment with glowing lights, close-up shots of display features, health tracking animations, smooth transitions, luxury product style, realistic reflections, and 4K advertisement quality."
+
+Detailed Prompt Output
+
+Generated video contains:
+
+Professional advertisement look
+High-quality product animation
+Smooth transitions
+Attractive lighting effects
+Better viewer engagement
+Comparison Between Simple and Detailed Prompts
+Factors	Simple Prompt	Detailed Prompt
+Video Quality	Average quality with fewer details	High-quality realistic output
+Scene Consistency	Some objects change randomly	Stable and consistent scenes
+Animation Style	Basic animation	Professional cinematic animation
+Motion	Limited object movements	Smooth realistic movements
+Transitions	Simple scene changes	Smooth camera transitions
+Creativity	AI decides most details	More creative and controlled results
+Lighting	Normal lighting effects	Realistic cinematic lighting
+Background Details	Simple background	Highly detailed environment
+Observation and Analysis
+Detailed prompts produce more realistic videos than simple prompts.
+Adding camera movements improves the cinematic appearance.
+Mentioning lighting and environment increases video quality.
+Detailed prompts maintain better scene consistency.
+Motion and transitions become smoother with clear instructions.
+Simple prompts are useful for quick generation but provide less control.
+
+Conclusion
+
+AI video generation performance depends greatly on the quality of prompts. Simple prompts create basic videos, while detailed prompts provide better control over video style, motion, lighting, transitions, and creativity. Effective prompt engineering is important for creating professional AI-generated videos.
 Result
-The experiment was successfully completed. Different prompting techniques for AI video
-generation were studied and compared. It was observed that detailed, style-based, and motionfocused prompts produce more creative, realistic, and consistent video outputs than simple
-prompts.
-s.
+
+The experiment successfully generated different types of AI videos using simple and detailed prompts. Detailed prompts produced higher quality, realistic, and more creative video outputs.
